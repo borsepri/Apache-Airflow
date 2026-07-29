@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Airflow
+logs/
+airflow.db
+airflow.cfg
+standalone_admin_password.txt
+
+# Environment
+.env
+
+# VS Code
+.vscode/
